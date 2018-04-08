@@ -21,7 +21,7 @@ Looking up this IP with whois, my number 1 attacker actually seemed to be google
 
 
 ![](./other5.png)
-Although I did not have much time to gather data, my elastichoney was hit once, whereas the dinoeaa instance was hit 22,138 times. The
+Although I did not have much time to gather data, my elastichoney was hit once, whereas the dinoeaa instance was hit 22,138 times. The wordpot was not hit at all, possibly due to an installation error
 
 Raw Data
 -
