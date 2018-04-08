@@ -3,7 +3,7 @@
 2) ElasticHoney Sensor - Remote Code Execution in ES before 1.3.8 - https://github.com/threatstream/mhn/wiki/ElasticHoney-Sensor
 3) Wordpot - Wordpress Attacks - https://github.com/threatstream/mhn/wiki/Wordpot-Sensor
 
-<img src="map.jpg">
+![](./map.png)
 
 Issues
 -
@@ -14,9 +14,9 @@ gcloud beta compute firewall-rules create mhn-allow-admin --direction=INGRESS --
 
 Summary
 -
-![](./top5.gif)
+![](./top5.png)
 Looking up this IP with whois, my number 1 attacker actually seemed to be google
-![](./other5.gif)
+![](./other5.png)
 Although I did not have much time to gather data, my elastichoney was hit once, whereas the dinoeaa instance was hit 22,138 times. The
 
 Raw Data
