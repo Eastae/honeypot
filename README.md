@@ -14,8 +14,12 @@ gcloud beta compute firewall-rules create mhn-allow-admin --direction=INGRESS --
 
 Summary
 -
+
 ![](./top5.png)
+
 Looking up this IP with whois, my number 1 attacker actually seemed to be google
+
+
 ![](./other5.png)
 Although I did not have much time to gather data, my elastichoney was hit once, whereas the dinoeaa instance was hit 22,138 times. The
 
